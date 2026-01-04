@@ -1,5 +1,6 @@
 # ABG Heaven Merge
 
-I stole the code :p
+i stole the code :p
+soooo the physics glitches r not my fault
 
 Source: https://github.com/moonfloof/suika-game
